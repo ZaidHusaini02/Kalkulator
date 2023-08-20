@@ -1,4 +1,3 @@
-![alt text](![image](https://github.com/ZaidHusaini02/Kalkulator/assets/102004433/a9739e31-bc43-4f72-8675-bb68b770069f)
-?raw=true)
+(![Kalkulator](https://github.com/ZaidHusaini02/Kalkulator/assets/102004433/fdc806d2-0314-40ff-9449-7345e74de73e)
 # Kalkulator
 Membuat Kalkulator
